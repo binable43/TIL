@@ -42,3 +42,6 @@ http://localhost:8080으로 접속했을 때 아래와 같은 페이지가 뜨�
 ![localhost8080](https://user-images.githubusercontent.com/81629116/159497178-85adb14a-2b44-4d2f-934e-96a8951bdccd.png)
 
 
+### reference
+- [인프런 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
+
