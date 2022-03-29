@@ -64,6 +64,9 @@ public class HelloController {
     - 실행 : http://localhost:8080/hello
 
 
+<img width="822" alt="스크린샷 2022-03-29 오후 2 57 18" src="https://user-images.githubusercontent.com/81629116/160543274-813d0e07-b739-4882-b213-90a3ab856045.png">
+
+
 - 컨트롤러에서 리턴 값으로 문자를 반환하면 뷰 리졸버(’`viewResolver`’)가 화면 찾아서 처리
     - 스프링 부트 템플릿엔진은 기본 viewName 매핑
     - ‘`resources:templates/`’ + {ViewName} + ‘`.html`’
