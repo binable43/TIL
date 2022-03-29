@@ -8,4 +8,5 @@
 * Cloud : Git 저장소를 올려서 공유하는 곳 (ex) GitHub, Bitbucket
 * Push : Local에 있는 저장소를 Remote에 올리는 것
   * push 할 경우 .git 폴더를 포함해서 모든 파일과 Commit들을 업로드 한다
+* Pull : Remote에 업데이트된 내용을 받아오는 것
 * Clone : Remote 저장소를 Local에 다운 받는 것
