@@ -22,7 +22,7 @@ $ git clone (url)
 ### 3) local에 원격 저장소 추가   
 clone해온 origin을 원격저장소인 github에 추가
 ```
-$ git remote add (nickname) (url)
+$ git remote add (별명) (url)
 ```
 
 이때 fork, clone해온 프로젝트는 origin이라는 별명이 기본으로 추가
@@ -61,3 +61,7 @@ $ git pull (remote 별명)
 ```
 $ git branch -d (브랜치 별명)
 ```
+
+### Reference
+[https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%EA%B9%83%ED%97%99-PRPull-Request-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-folk-issue](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%EA%B9%83%ED%97%99-PRPull-Request-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-folk-issue)
+[https://velog.io/@zansol/Pull-Request-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0](https://velog.io/@zansol/Pull-Request-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
