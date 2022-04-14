@@ -16,3 +16,16 @@
     
 ![Mergesort](https://user-images.githubusercontent.com/81629116/159433410-f13136cb-adfa-4e36-a205-676a9f2f71c6.png)
 <p align="left">Merge Sort : Khan Acamedy<p align="left">
+
+<br>
+<br>
+  
+- 합병정렬은 외부정렬의 기본이 되는 알고리즘
+- 연결리스트에 있는 데이터를 정렬할 때 퀵 정렬이나 힙 정렬보다 훨씬 효율적
+- 멀티코어(Multi-Core) CPU와 다수의 프로세서로 구성된 그래픽 처리 장치(Graphic Processing Unit)의 등장으로 정렬 알고리즘을 병렬화하는데 합병정렬 알고리즘이 활용됨   
+  
+<br>
+<br>
+  
+## Reference
+- [알기 쉬운 알고리즘 (양성봉 지음)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788970504896)
